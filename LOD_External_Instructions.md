@@ -1,3 +1,3 @@
 #GitHub Documentation
 
-This document is from GitHub. [Click here to view the source code!.](https://github.com/tony5a/Virtual_Lab_Demo/blob/master/LOD_External_Instructions.md)
+This document is from GitHub. [Click here to view the source code!](https://github.com/tony5a/Virtual_Lab_Demo/blob/master/LOD_External_Instructions.md)
